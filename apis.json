@@ -1,0 +1,65 @@
+{
+    "name": "eSignal",
+    "description": "Everything you need, all in one place: charts that change the game, better backtesting & scanning, and reliable real-time data",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-02-18-pm.png",
+    "tags": [
+        "api provider",
+        "financial",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/esignal\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "eSignal",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-02-18-pm.png",
+            "humanURL": "http:\/\/www.esignal.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/esignal-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/esignal"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.esignal.com\/development-tools\/market_data_solutions.aspx"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/www.esignal.com\/development-tools\/consolidated-data-feed-API.aspx"
+        },
+        {
+            "type": "eSignal Formula Script SDK",
+            "url": "http:\/\/www.esignal.com\/development-tools\/esignal_sdk_tools\/efs.aspx"
+        },
+        {
+            "type": "QLink Library",
+            "url": "http:\/\/www.esignal.com\/development-tools\/esignal_sdk_tools\/qlink.aspx"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/eSignalChannel"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.esignal.com"
+        },
+        {
+            "type": "Wikipedia ",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/ESignal"
+        }
+    ]
+}
